@@ -27,7 +27,7 @@
     * ![Imgur](https://imgur.com/IlJcm07.png 'vanilla_vh.mod')
     
   1. **Trello và Github**
-  > Mỗi thành viên cần có tài khoản trello và github để thêm vào workspace
+  > Mỗi thành viên cần có tài khoản trello và github để thêm vào workspace  
   
     * ![Imgur](https://imgur.com/vjiW1Pa.png)
     * [Link trello workspace](https://trello.com/hoi4_viethoa_new/home)
@@ -41,7 +41,7 @@
       * Không dịch tên các state, tên division đặc biệt, tên nước đặc biệt (Mare Nostrum)
       * Dịch vắn tắt tên nước, tên đảng
       * Tên puppet => Lãnh thổ + tên nước
-      * Dominion => Tên nước
+      * Dominion => Tên nước  
     * Hạn chế sử dụng google dịch để tránh tình trạng trong ảnh (The long march => Tháng ba dài)
     * ![Imgur](https://imgur.com/U8rU7pf.png)
     * Cẩn thận tránh dịch các biến gây lỗi. Tham khảo thêm 1 số [Formatting characters](https://hoi4.paradoxwikis.com/Localisation#Formatting_characters) để phân biệt formatting character và variable
