@@ -20,18 +20,15 @@
   * Nhóm review hoạt động song song với nhóm dịch, gồm 2 thành viên chính là Lê Đức và Lê Thái Sơn
 
 ## Quy trình dịch
-  1. **Mod**  
-
-
+  1. **Mod**
     * Tải mod về và bỏ vào Documents/Paradox Interactive/Hearts of Iron IV/mod
     * Chỉnh lại đường dẫn trong file vanilla_vh.mod trỏ tới đúng thư mục mod (chỉ cần chỉnh lại username ở ...)
     * Những file dịch mới sẽ đặt vào vanilla_vh/localisation/replace
     * ![Imgur](https://imgur.com/IlJcm07.png 'vanilla_vh.mod')
     
-  1. **Trello và Github**  
-
-
-    * Mỗi thành viên cần có tài khoản trello và github để thêm vào workspace
+  1. **Trello và Github**
+  > Mỗi thành viên cần có tài khoản trello và github để thêm vào workspace
+  
     * ![Imgur](https://imgur.com/vjiW1Pa.png)
     * [Link trello workspace](https://trello.com/hoi4_viethoa_new/home)
     * HOI4_VIETHOA_NEW workspace sẽ có 5 bảng tương ứng với các nhóm và giai đoạn dịch
