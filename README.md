@@ -26,7 +26,7 @@
     * Những file dịch mới sẽ đặt vào vanilla_vh/localisation/replace
     * ![Imgur](https://imgur.com/IlJcm07.png 'vanilla_vh.mod')
 
-    1. **Trello và Github**
+  1. **Trello và Github**
     > Mỗi thành viên cần có tài khoản trello và github để thêm vào workspace
   
     * ![Imgur](https://imgur.com/vjiW1Pa.png)
