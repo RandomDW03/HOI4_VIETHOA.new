@@ -29,7 +29,7 @@
   1. **Trello và Github**
   > Mỗi thành viên cần có tài khoản trello và github để thêm vào workspace
   
-  ![Imgur](https://imgur.com/vjiW1Pa.png)
+    * ![Imgur](https://imgur.com/vjiW1Pa.png)
     * [Link trello workspace](https://trello.com/hoi4_viethoa_new/home)
     * HOI4_VIETHOA_NEW workspace sẽ có 5 bảng tương ứng với các nhóm và giai đoạn dịch
     * Mỗi thành viên sẽ kéo các task từ cột "Cần dịch" sang "Đang dịch" và tự thêm name tag của mình vào thẻ. [Hướng dẫn thêm name tag](https://help.trello.com/article/807-adding-a-member-to-a-card) 
