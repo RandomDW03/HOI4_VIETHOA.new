@@ -33,6 +33,7 @@
      * Mỗi thành viên sẽ kéo các task từ cột "Cần dịch" sang "Đang dịch" và tự thêm name tag của mình vào thẻ. [Hướng dẫn thêm name tag](https://help.trello.com/article/807-adding-a-member-to-a-card)
      * Khi dịch xong 1 file -> chuyển file sang cột "Đã dịch" để báo cho nhóm review. Sau đó upload file lên github
      * [Link repo github](https://github.com/RandomDW03/HOI4_VANILLA_VIETHOA.new) và [hướng dẫn upload file](https://www.facebook.com/100015171617407/videos/526754478615150/)
+     * Nếu gặp phải 1 vấn đề không tự giải quyết được => tạo mới 1 github issue hoặc thêm vào bảng Lỗi ở trello
   3. **Yêu cầu và lưu ý**  
      * 1 số quy ước chung
        * Không dịch tên các state, tên division đặc biệt, tên nước đặc biệt (Mare Nostrum)
@@ -42,3 +43,4 @@
      * Hạn chế sử dụng google dịch để tránh tình trạng trong ảnh (The long march => Tháng ba dài)
      * ![Imgur](https://imgur.com/U8rU7pf.png)
      * Cẩn thận tránh dịch các biến gây lỗi. Tham khảo thêm 1 số [Formatting characters](https://hoi4.paradoxwikis.com/Localisation#Formatting_characters) để phân biệt formatting character và variable
+     * Những lưu ý khác sẽ đăng trong nhóm [Việt Hóa Heart of iron 4](https://www.facebook.com/groups/847133609179447)
