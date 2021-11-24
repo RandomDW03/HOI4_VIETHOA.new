@@ -18,7 +18,7 @@
    * ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
  0 / 80 Những file ngắn ( < 30 kb ) ( 1 - 2 tuần ) 
    * ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
- 0 / 23 Những file trung bình ( < 30 kb ) ( 2 - 4 tuần ) 
+ 0 / 23 Những file trung bình ( 30 - 80 kb ) ( 2 - 4 tuần ) 
    * ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
  0 / 27 Những file dài ( > 80 kb ) ( 4 - 6 tuần ) 
    * Nhóm review gồm 2 thành viên chính là Lê Đức và Lê Thái Sơn
