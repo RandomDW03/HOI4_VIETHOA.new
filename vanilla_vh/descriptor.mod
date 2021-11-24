@@ -1,6 +1,6 @@
-version="1.10.8"
+version="1.0.0"
 tags={
 	"Translation"
 }
 name="vanilla_vh"
-supported_version="1.10.8"
+supported_version="1.11.1"
