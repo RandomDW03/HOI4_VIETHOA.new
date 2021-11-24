@@ -7,17 +7,21 @@
 
 ## Tài Nguyên
 ### [Link](https://drive.google.com/drive/folders/1GcsTJVj2rh-PeA-iKQaxqkkv4UmRlgg7?usp=sharing) bao gồm
-  * Visual Studio Code Portable : editor
-  * Translate Helper            : phần mềm hỗ trợ dịch 
+  * english : file tiếng anh gốc của game        
+  * Translate Helper : phần mềm hỗ trợ dịch 
   * Bộ font việt hóa
   * Khung mod đã chứa font
   * VH_pack.zip : tất cả những thứ trên  
 
 ## Lộ Trình Dịch
 ![Imgur](https://imgur.com/ynADp89.png "flow")
-   * Nhóm 1 chịu trách nhiệm dịch những file nhỏ - trung bình
-   * Nhóm 2 chịu trách nhiệm dịch những file lớn
-   * Nhóm review hoạt động song song với nhóm dịch, gồm 2 thành viên chính là Lê Đức và Lê Thái Sơn
+   * ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+ 0 / 80 Những file ngắn ( < 30 kb ) ( 1 - 2 tuần ) 
+   * ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+ 0 / 23 Những file trung bình ( < 30 kb ) ( 2 - 4 tuần ) 
+   * ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+ 0 / 27 Những file dài ( > 80 kb ) ( 4 - 6 tuần ) 
+   * Nhóm review gồm 2 thành viên chính là Lê Đức và Lê Thái Sơn
 
 ## Quy trình dịch
   1. **Mod**
@@ -27,13 +31,12 @@
      * ![Imgur](https://imgur.com/IlJcm07.png 'vanilla_vh.mod')
   2. **Trello và Github**
      * Mỗi thành viên cần có tài khoản trello và github để thêm vào workspace
-     * ![Imgur](https://imgur.com/vjiW1Pa.png)
-     * [Link trello workspace](https://trello.com/hoi4_viethoa_new/home)
-     * HOI4_VIETHOA_NEW workspace sẽ có 5 bảng tương ứng với các nhóm và giai đoạn dịch
-     * Mỗi thành viên sẽ kéo các task từ cột "Cần dịch" sang "Đang dịch" và tự thêm name tag của mình vào thẻ. [Hướng dẫn thêm name tag](https://help.trello.com/article/807-adding-a-member-to-a-card)
-     * Khi dịch xong 1 file -> chuyển file sang cột "Đã dịch" để báo cho nhóm review. Sau đó upload file lên github
-     * [Link repo github](https://github.com/RandomDW03/HOI4_VANILLA_VIETHOA.new) và [hướng dẫn upload file](https://www.facebook.com/100015171617407/videos/526754478615150/)
-     * Nếu gặp phải 1 vấn đề không tự giải quyết được => tạo mới 1 github issue hoặc thêm vào bảng Lỗi ở trello
+     * [Link trello workspace](https://trello.com/hoi4_viethoa_new)
+     * HOI4_VIETHOA_NEW workspace sẽ có 4 bảng Long, Medium, Short, Issues
+     * Mỗi thành viên khi nhận 1 file sẽ tự thêm name tag của mình vào thẻ (Tìm hiểu về automation để thực hiện nhanh, không hiểu sao không share rule ra toàn workspace được
+     * Khi dịch xong 1 file -> chuyển file sang cột "Done" để báo cho nhóm review. Sau đó upload file lên github
+     * [Hướng dẫn upload file nếu bạn không biết dùng cli](https://www.facebook.com/100015171617407/videos/526754478615150/)
+     * Nếu gặp phải 1 vấn đề không tự giải quyết được => tạo mới 1 github issue hoặc thêm vào bảng Issues ở trello
   3. **Yêu cầu và lưu ý**  
      * 1 số quy ước chung
        * Không dịch tên các state, tên division đặc biệt, tên nước đặc biệt (Mare Nostrum)
