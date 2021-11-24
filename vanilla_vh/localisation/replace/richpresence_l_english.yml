@@ -1,0 +1,11 @@
+﻿l_english:
+ SOCIAL_DSTATUS_IN_MAIN_MENU:0 "Trong Menu chính"
+ SOCIAL_DSTATUS_IN_SP_LOBBY:0 "Trong phòng chờ chơi đơn"
+ SOCIAL_DSTATUS_IN_MP_LOBBY:0 "Trong phòng chờ nhiều người chơi"
+ SOCIAL_DSTATUS_PLAYING:0 "Đang chơi"
+ SOCIAL_DSTATUS_PLAYING_AS:0 "Đang chơi với $COUNTRY$ vào $YEAR$"
+ SOCIAL_DSTATUS_PLAYING_GAME:0 "Đang chơi $GAME$"
+ SOCIAL_DSTATUS_PLAYING_SOME_GAME:0 "Chơi một trò chơi khác"
+ SOCIAL_DSTATUS_OBSERVING:0 "Quan sát"
+ SOCIAL_DSTATUS_OBSERVING_AS:1 "Quan sát như $COUNTRY$ vào $YEAR$"
+ SOCIAL_DSTATUS_BLOCKED_STATUS:0 " "
