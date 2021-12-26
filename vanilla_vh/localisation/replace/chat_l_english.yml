@@ -1,6 +1,6 @@
 ﻿l_english:
  CHAT_USERJOINEDCHANNEL:0 "$NAME$ đã tham gia."
  CHAT_USERDISCONNECTED:0 "$NAME$ đã ngắt kết nối."
- CHAT_USERWASBANNED:0 "$NAME$ đã bị cấm."
+ CHAT_USERWASBANNED:0 "$NAME$ đã bị chặn."
  CHAT_USERLEFTCHANNEL:0 "$NAME$ đã rời đi."
  CHAT_CHANNEL_GENERAL:0 "Chung"

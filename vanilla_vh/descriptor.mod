@@ -3,4 +3,4 @@ tags={
 	"Translation"
 }
 name="vanilla_vh"
-supported_version="1.11.1"
+supported_version="1.11.4"
