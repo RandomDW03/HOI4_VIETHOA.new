@@ -1,7 +1,7 @@
 ﻿l_english:
  GER_ss_factory_rerouted:0 "Dự Án SS Bí Mật"
  SS_recruitment:0 "Quân Tình Nguyện Ngoại Quốc"
- SS_recruitment_desc:1 "Lực lượng SS dưới quyền Himmler tin rằng họ phải có trách nhiệm tuyển quân quân tình nguyện ngoại quốc nhằm chống lại chủ nghĩa Bolshevic toàn cầu. Wehrmacht không đồng ý và không chấp nhận hai cấu trúc chỉ huy song song tồn tại. Đối xử với 1 trong 2 phe quá tệ có thể gây ra hậu quả nghiêm trọng.\n\n§YThái Độ§! hiện tại của OKW: [Root.GetWehrmachtAngerLevel] ([?GER.wehrmacht_anger|-0])\n\§YThái Độ§! hiện tại của giới Lãnh Đạo SS: [Root.GetSSAngerLevel] ([?GER.SS_anger|-0])"
+ SS_recruitment_desc:1 "Lực lượng SS dưới quyền Himmler tin rằng họ phải có trách nhiệm tuyển quân tình nguyện ngoại quốc nhằm chống lại chủ nghĩa Bolshevic toàn cầu. Wehrmacht không đồng ý và không chấp nhận hai cấu trúc chỉ huy song song tồn tại. Đối xử với 1 trong 2 phe quá tệ có thể gây ra hậu quả nghiêm trọng.\n\n§YThái Độ§! hiện tại của OKW: [Root.GetWehrmachtAngerLevel] ([?GER.wehrmacht_anger|-0]) \n\n§YThái Độ§! hiện tại của giới Lãnh Đạo SS: [Root.GetSSAngerLevel] ([?GER.SS_anger|-0])"
  SS_loyal:0 "Trung Thành"
  SS_calm:0 "Điềm Tĩnh"
  SS_worried:0 "Lo Lắng"
@@ -55,7 +55,7 @@
  GER_division_danmark_armored_tt:0 "§YSư Đoàn Panzer SS Danmark§! sẽ xuất hiện với đủ nhân lực mà không có trang bị."
  GER_division_norge_armored_tt:0 "§YSư Đoàn Panzer SS Norge§! sẽ xuất hiện với đủ nhân lực mà không có trang bị."
  GER_division_nederland_mot_tt:0 "§YSư Đoàn Bộ Binh Cơ Giới SS 23. Nederland§! thiện chiến sẽ xuất hiện với đủ nhân lực mà không có trang bị."
- GER_division_nederland_mech_tt:0 §YSư Đoàn Bộ Binh Cơ Giới Bọc Thép SS 23. Nederland§! thiện chiến sẽ xuất hiện với đủ nhân lực mà không có trang bị."
+ GER_division_nederland_mech_tt:0 "§YSư Đoàn Bộ Binh Cơ Giới Bọc Thép SS 23. Nederland§! thiện chiến sẽ xuất hiện với đủ nhân lực mà không có trang bị."
  GER_division_nederland_armored_tt:0 "§YSư Đoàn Panzer SS Nederland§! và §YSư Đoàn Panzer SS Anton Mussert§! sẽ xuất hiện với đủ nhân lực mà không có trang bị."
  GER_division_belgium_mech_tt:0 "§YSư Đoàn Bộ Binh Cơ Giới Bọc Thép SS 27. Langemark§! và §YSư Đoàn Bộ Binh Cơ Giới Bọc Thép SS 28. Wallonien§! thiện chiến sẽ xuất hiện với đủ nhân lực mà không có trang bị."
  GER_division_belgium_mot_tt:0 "§YSư Đoàn Bộ Binh Cơ Giới SS 27. Langemark§! và §YSư Đoàn Bộ Binh Cơ Giới SS 28. Wallonien§! thiện chiến sẽ xuất hiện với đủ nhân lực mà không có trang bị."
